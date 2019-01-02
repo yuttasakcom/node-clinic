@@ -34,7 +34,7 @@
     "opn": "^5.4.0",
     "ora": "^3.0.0",
     "pumpify": "^1.4.0",
-    "rimraf": "^2.6.2",
+    "rimraf": "^2.6.3",
     "simple-get": "^3.0.3",
     "stream-collector": "^1.0.1",
     "subarg": "^1.0.0",
