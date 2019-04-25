@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@nearform/bubbleprof": "^2.0.0",
-    "@nearform/doctor": "^4.0.0",
+    "@nearform/doctor": "4.0.3",
     "@nearform/flame": "^4.0.0",
     "any-shell-escape": "^0.1.1",
     "async": "^2.6.0",
